@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Family Ties RU</name>
+    <author>dickus</author>
+    <modVersion>1.0.0</modVersion>
+    <packageId>dickus.familyties.russian</packageId>
+    <description>Вы когда-нибудь задумывались, почему смерть ребёнка вызывает у пешки ненависть к убийце, но нанесённые ребёнку травмы ничего не значат для родителя?
+
+Даже на суровых окраинах галактики семейные узы имеют значение. Этот мод углубляет отношения между родителями и детьми, заставляя родителей реагировать на боль и страдания своих отпрысков.</description>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+    <modDependencies>
+        <li>
+            <packageId>brrainz.harmony</packageId>
+            <displayName>Harmony</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+            <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+        </li>
+    </modDependencies>
+</ModMetaData>
+
