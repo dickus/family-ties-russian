@@ -7,5 +7,11 @@
 
     <MyChildIsInPain.stages.1.label>Мои дети страдают</MyChildIsInPain.stages.1.label>
     <MyChildIsInPain.stages.1.description>Мои дети страдают... Это невыносимо.</MyChildIsInPain.stages.1.description>
+
+    <MySonLostLimb.stages.0.label>Мой сын потерял часть тела</MySonLostLimb.stages.0.label>
+    <MySonLostLimb.stages.0.description>Мой мальчик покалечен. Сердце болит видеть его таким.</MySonLostLimb.stages.0.description>
+
+    <MyDaughterLostLimb.stages.0.label>Моя дочь потеряла часть тела</MyDaughterLostLimb.stages.0.label>
+    <MyDaughterLostLimb.stages.0.description>Моя девочка покалечена. Сердце болит видеть её такой.</MyDaughterLostLimb.stages.0.description>
 </LanguageData>
 
