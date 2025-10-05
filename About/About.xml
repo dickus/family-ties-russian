@@ -17,6 +17,14 @@
             <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
             <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
         </li>
+        <li>
+            <packageId>dickus.familyties</packageId>
+            <displayName>Family Ties</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/3574741456</steamWorkshopUrl>
+        </li>
     </modDependencies>
+    <loadAfter>
+        <li>dickus.familyties</li>
+    </loadAfter>
 </ModMetaData>
 
