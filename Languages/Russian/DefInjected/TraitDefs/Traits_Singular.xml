@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <FamilyPerson.degreeDatas.0.label>Семьянин</FamilyPerson.degreeDatas.0.label>
+    <FamilyPerson.degreeDatas.0.description>Семья для {PAWN_nameDef} ― всё. {PAWN_nameDef} любит проводить время с членами семьи и отлично ладит с детьми, а семейные радости и горе вызывают у н{PAWN_possessive} больший отклик, чем у других.</FamilyPerson.degreeDatas.0.description>
+</LanguageData>
+
