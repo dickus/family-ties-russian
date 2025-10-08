@@ -7,14 +7,5 @@
     <!-- Поднятие уровня навыка -->
     <MyChildLeveledUpSkill.stages.0.label>Мой ребёнок стал более умелым</MyChildLeveledUpSkill.stages.0.label>
     <MyChildLeveledUpSkill.stages.0.description>Приятно видеть, как мой ребёнок учится и становится лучше.</MyChildLeveledUpSkill.stages.0.description>
-
-    <!-- Семьянин -->
-    <!-- Шедевр -->
-    <MyChildCreatedMasterpiece.stages.1.label>Мой ребёнок создал шедевр!</MyChildCreatedMasterpiece.stages.1.label>
-    <MyChildCreatedMasterpiece.stages.1.description>Я так горжусь своим ребёнком! У него определённо есть талант.</MyChildCreatedMasterpiece.stages.1.description>
-
-    <!-- Поднятие уровня навыка -->
-    <MyChildLeveledUpSkill.stages.1.label>Мой ребёнок стал более умелым</MyChildLeveledUpSkill.stages.1.label>
-    <MyChildLeveledUpSkill.stages.1.description>Приятно видеть, как мой ребёнок учится и становится лучше.</MyChildLeveledUpSkill.stages.1.description>
 </LanguageData>
 

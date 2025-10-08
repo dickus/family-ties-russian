@@ -13,20 +13,5 @@
 
     <MyDaughterLostLimb.stages.0.label>Моя дочь потеряла часть тела</MyDaughterLostLimb.stages.0.label>
     <MyDaughterLostLimb.stages.0.description>Моя девочка покалечена. Сердце болит видеть её такой.</MyDaughterLostLimb.stages.0.description>
-
-    <!-- Семьянин -->
-    <!-- Боль -->
-    <MyChildIsInPain.stages.2.label>Мой ребёнок страдает</MyChildIsInPain.stages.2.label>
-    <MyChildIsInPain.stages.2.description>Мысли о боли моего ребёнка не дают мне покоя.</MyChildIsInPain.stages.2.description>
-
-    <MyChildIsInPain.stages.3.label>Мои дети страдают</MyChildIsInPain.stages.3.label>
-    <MyChildIsInPain.stages.3.description>Мои дети страдают... Это невыносимо.</MyChildIsInPain.stages.3.description>
-
-    <!-- Части тела -->
-    <MySonLostLimb.stages.1.label>Мой сын потерял часть тела</MySonLostLimb.stages.1.label>
-    <MySonLostLimb.stages.1.description>Мой мальчик покалечен. Сердце болит видеть его таким.</MySonLostLimb.stages.1.description>
-
-    <MyDaughterLostLimb.stages.1.label>Моя дочь потеряла часть тела</MyDaughterLostLimb.stages.1.label>
-    <MyDaughterLostLimb.stages.1.description>Моя девочка покалечена. Сердце болит видеть её такой.</MyDaughterLostLimb.stages.1.description>
 </LanguageData>
 
