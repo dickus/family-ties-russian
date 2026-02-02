@@ -1,7 +1,7 @@
 # Family Ties
-Этот мод для **RimWorld** пытается углубить семейные отношения, заставляя родителей сопереживать боли и трудностям своих детей, а детей — волноваться или радоваться за своих родителей.
+Перевод мода **[Family Ties](https://github.com/dickus/family-ties)** для **RimWorld**, который пытается углубить семейные отношения, заставляя родителей сопереживать боли и трудностям бытия своих детей, а детей — волноваться или радоваться за своих родителей.
 
-[![link](https://i.postimg.cc/QdL6n7QW/steam.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3574741456)
+[![link](https://i.postimg.cc/QdL6n7QW/steam.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3584144728)
 
 # Planned features
 ## Transhumanist Family 2.0.0
